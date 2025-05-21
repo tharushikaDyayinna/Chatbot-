@@ -1,4 +1,6 @@
-langchain
-langchain-ollama
-langchain-chroma
-pandas
+streamlit>=1.33
+langchain-core>=0.2.0
+langchain-community>=0.2.0      
+langchain-chroma>=0.1.2         
+chromadb>=0.5.0                 
+tiktoken                        
